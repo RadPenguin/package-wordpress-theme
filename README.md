@@ -7,5 +7,5 @@ An npm package with a set of default packages suitable for WordPress theme devel
 Include in your WordPress theme's `package.json` by:
 
 ```bash
-yarn add https://github.com/RadPenguin/docker-php-apache.git
+yarn add --dev package-wordpress-theme@https://github.com/RadPenguin/package-wordpress-theme.git
 ```
